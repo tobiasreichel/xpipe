@@ -1,0 +1,11 @@
+{
+  "uuid" : "633eb5dc-8ed2-4ede-adf6-2a20269d1d69",
+  "name" : "grafana",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
