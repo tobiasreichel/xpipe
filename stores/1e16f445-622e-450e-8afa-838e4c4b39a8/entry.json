@@ -1,0 +1,11 @@
+{
+  "uuid" : "1e16f445-622e-450e-8afa-838e4c4b39a8",
+  "name" : "mailcowdockerized-ofelia-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
