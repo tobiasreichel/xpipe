@@ -1,0 +1,11 @@
+{
+  "uuid" : "11c0e8fa-f742-4c56-8212-54e2df7154e8",
+  "name" : "Shell environments",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
