@@ -1,0 +1,6 @@
+{
+  "type" : "docker",
+  "context" : "67de90bb-4d54-45d8-8483-7ca7f449ad5c",
+  "composeProject" : "65dac68d-ea03-4ffc-87c7-d20482452313",
+  "containerName" : "loki"
+}

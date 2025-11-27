@@ -1,0 +1,11 @@
+{
+  "uuid" : "c30eb0b1-5873-446f-a9f0-1a4bd807426b",
+  "name" : "loki",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
