@@ -1,0 +1,6 @@
+{
+  "type" : "docker",
+  "context" : "ac2c3c9f-c200-4513-82a7-c5e474769439",
+  "composeProject" : "c1cff0e9-9cd8-4c4d-a351-3dd282668991",
+  "containerName" : "mailcowdockerized-postfix-mailcow-1"
+}

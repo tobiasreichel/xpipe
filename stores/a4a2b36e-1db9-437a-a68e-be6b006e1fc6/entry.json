@@ -1,0 +1,11 @@
+{
+  "uuid" : "a4a2b36e-1db9-437a-a68e-be6b006e1fc6",
+  "name" : "mailcowdockerized-postfix-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
