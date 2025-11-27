@@ -1,0 +1,11 @@
+{
+  "uuid" : "87e3a975-c55f-44b8-bc48-9e8cd4cf9eb9",
+  "name" : "default",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
