@@ -1,0 +1,11 @@
+{
+  "uuid" : "b10bdd38-341a-4fc5-8ca1-7e9ae275f37c",
+  "name" : "192.168.0.1",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
