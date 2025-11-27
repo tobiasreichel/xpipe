@@ -1,0 +1,11 @@
+{
+  "uuid" : "eb22067e-1ce6-4b65-8be1-a2f3c3aba6a2",
+  "name" : "mailcowdockerized-dovecot-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
