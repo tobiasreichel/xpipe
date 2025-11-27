@@ -1,0 +1,11 @@
+{
+  "uuid" : "2f40da66-1e0a-44d4-aaac-934f361005f9",
+  "name" : "alertmanager",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
