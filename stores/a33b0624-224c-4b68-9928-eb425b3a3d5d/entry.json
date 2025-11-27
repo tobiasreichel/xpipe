@@ -1,0 +1,11 @@
+{
+  "uuid" : "a33b0624-224c-4b68-9928-eb425b3a3d5d",
+  "name" : "mailcowdockerized-unbound-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
