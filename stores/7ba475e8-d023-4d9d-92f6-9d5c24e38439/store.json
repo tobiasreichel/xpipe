@@ -1,0 +1,14 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "host" : "mail.dufter-tec.de",
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : "f273988c-50ef-406f-8315-47679d3bd8bc"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "jumpServer" : false,
+  "additionalOptions" : null
+}

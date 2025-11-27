@@ -1,0 +1,11 @@
+{
+  "uuid" : "7ba475e8-d023-4d9d-92f6-9d5c24e38439",
+  "name" : "Mail -- Dufter-Tec",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
