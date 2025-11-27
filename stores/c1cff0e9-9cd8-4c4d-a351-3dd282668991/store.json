@@ -1,0 +1,7 @@
+{
+  "type" : "dockerComposeProject",
+  "context" : "ac2c3c9f-c200-4513-82a7-c5e474769439",
+  "name" : "mailcowdockerized",
+  "configFiles" : [ "/home/ubuntu/mailcow-installer/mailcow-dockerized/docker-compose.yml" ],
+  "restriction" : null
+}
