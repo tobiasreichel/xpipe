@@ -1,0 +1,11 @@
+{
+  "dontAutomaticallyStartVmSshServer" : false,
+  "dontAcceptNewHostKeys" : false,
+  "iconSources" : [ ],
+  "disableTerminalRemotePasswordPreparation" : false,
+  "alwaysConfirmElevation" : false,
+  "dontCachePasswords" : false,
+  "encryptAllVaultData" : false,
+  "apiKey" : "1c7e59ee-3a72-4502-939a-b4557165c143",
+  "workspaceLock" : null
+}
