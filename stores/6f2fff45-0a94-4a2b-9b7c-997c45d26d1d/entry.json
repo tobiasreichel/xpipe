@@ -1,0 +1,11 @@
+{
+  "uuid" : "6f2fff45-0a94-4a2b-9b7c-997c45d26d1d",
+  "name" : "mailcowdockerized-postfix-tlspol-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
