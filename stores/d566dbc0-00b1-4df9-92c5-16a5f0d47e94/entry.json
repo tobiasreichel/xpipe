@@ -1,0 +1,11 @@
+{
+  "uuid" : "d566dbc0-00b1-4df9-92c5-16a5f0d47e94",
+  "name" : "promtail",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
