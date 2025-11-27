@@ -1,0 +1,11 @@
+{
+  "uuid" : "e1d45b42-24c0-4782-88eb-640a548ec1c2",
+  "name" : "prometheus",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
