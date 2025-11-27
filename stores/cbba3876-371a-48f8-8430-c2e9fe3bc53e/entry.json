@@ -1,0 +1,11 @@
+{
+  "uuid" : "cbba3876-371a-48f8-8430-c2e9fe3bc53e",
+  "name" : "mail",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
