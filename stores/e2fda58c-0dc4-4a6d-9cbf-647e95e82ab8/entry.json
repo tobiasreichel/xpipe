@@ -1,0 +1,11 @@
+{
+  "uuid" : "e2fda58c-0dc4-4a6d-9cbf-647e95e82ab8",
+  "name" : "WEB1 -- Dufter-Tec",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
