@@ -1,0 +1,11 @@
+{
+  "uuid" : "2df926e8-c7a3-4e01-b100-01615ff58729",
+  "name" : "uptime-kuma",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
