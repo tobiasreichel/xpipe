@@ -1,0 +1,11 @@
+{
+  "uuid" : "4f66e4da-b3b1-45b0-8cf7-743e77ff93e3",
+  "name" : "Docker containers",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
