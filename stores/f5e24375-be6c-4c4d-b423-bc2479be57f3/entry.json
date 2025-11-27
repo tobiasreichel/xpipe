@@ -1,0 +1,11 @@
+{
+  "uuid" : "f5e24375-be6c-4c4d-b423-bc2479be57f3",
+  "name" : "mailcowdockerized-watchdog-mailcow-1",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
