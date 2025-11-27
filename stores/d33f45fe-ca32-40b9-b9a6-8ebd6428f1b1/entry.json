@@ -1,0 +1,11 @@
+{
+  "uuid" : "d33f45fe-ca32-40b9-b9a6-8ebd6428f1b1",
+  "name" : "sudo",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
