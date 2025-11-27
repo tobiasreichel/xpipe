@@ -1,0 +1,11 @@
+{
+  "uuid" : "e3b00e7f-3199-40d9-b6e2-fcd01af620ff",
+  "name" : "cadvisor",
+  "categoryUuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
+}
