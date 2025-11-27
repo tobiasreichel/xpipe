@@ -1,0 +1,13 @@
+{
+  "uuid" : "1bceecff-322e-4730-a46a-cea370e66e65",
+  "name" : "Dufter-Tec",
+  "parentUuid" : "bfb0b51a-e7a3-4ce4-8878-8d4cb5828d6c",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "freezeConfigurations" : null,
+    "defaultIdentityStore" : null
+  }
+}
