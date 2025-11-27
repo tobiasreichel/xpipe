@@ -8,6 +8,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 - **Connections**
   - [**Dufter-Tec**](categories/1bceecff-322e-4730-a46a-cea370e66e65)
+  - [**Default**](categories/97458c07-75c0-4f9d-a06e-92d8cdf67c40)
 - **Scripts**
 - **Identities**
 - **Macros**
@@ -57,6 +58,22 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**WEB1 -- Dufter-Tec**](stores/e2fda58c-0dc4-4a6d-9cbf-647e95e82ab8)
   - [**Shell environments**](stores/12d015cd-d89b-4e5c-bb3d-b586563a1a63)
     - [**sudo**](stores/7cbd6e11-7901-4fdc-a92f-a237b656b85f)
+
+**All connections / Default**
+
+- [**192.168.0.1**](stores/b10bdd38-341a-4fc5-8ca1-7e9ae275f37c)
+- [**192.168.0.180**](stores/60d7fc24-c45b-4ba5-83e8-ac4060c66485)
+- [**Netbird connections**](stores/f9083b12-0e13-4c34-99e2-e7470820874e)
+  - [**default**](stores/2e6f4524-ab81-49dd-95d8-eb0ae1b18f2d)
+    - [**mail**](stores/cbba3876-371a-48f8-8430-c2e9fe3bc53e)
+      - [**Docker containers**](stores/4f66e4da-b3b1-45b0-8cf7-743e77ff93e3)
+        - [**default**](stores/87e3a975-c55f-44b8-bc48-9e8cd4cf9eb9)
+      - [**Shell environments**](stores/a042fc61-dd55-4910-91ca-97cca42ad62b)
+        - [**sudo**](stores/d33f45fe-ca32-40b9-b9a6-8ebd6428f1b1)
+    - [**surfacepro9**](stores/9846096f-12a1-4ba4-b447-479943d19617)
+    - [**web1**](stores/9733ee58-9d9e-4ff5-afce-0abb4946291f)
+      - [**Shell environments**](stores/31ea1f04-06cf-4566-8b5a-2f07fa434c3b)
+        - [**sudo**](stores/b000de46-91d7-4bd6-abba-8842800981ec)
 
 
 ## Secret encryption
