@@ -1,0 +1,17 @@
+{
+  "type" : "netbirdPeer",
+  "parent" : "2e6f4524-ab81-49dd-95d8-eb0ae1b18f2d",
+  "gateway" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : "f273988c-50ef-406f-8315-47679d3bd8bc"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "jumpServer" : false,
+  "additionalOptions" : null,
+  "name" : "web1",
+  "profile" : "2e6f4524-ab81-49dd-95d8-eb0ae1b18f2d",
+  "publicKey" : "or42BXh0CLGdu22Xq7rB7Q+OnLZIX2u4XZA/VccU224="
+}
