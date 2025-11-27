@@ -1,0 +1,7 @@
+{
+  "type" : "dockerComposeProject",
+  "context" : "67de90bb-4d54-45d8-8483-7ca7f449ad5c",
+  "name" : "observability",
+  "configFiles" : [ "/opt/observability/docker-compose.yml" ],
+  "restriction" : null
+}
